@@ -1,0 +1,16 @@
+PODS:
+  - CJTools (0.1.0)
+
+DEPENDENCIES:
+  - CJTools (from `../`)
+
+EXTERNAL SOURCES:
+  CJTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CJTools: 3c5ab7426a9aff35d91e6e621fdc43d5e0880a3c
+
+PODFILE CHECKSUM: 12c4b1d79c1e8919f3ea63dcc011fa1f090d2823
+
+COCOAPODS: 1.9.3

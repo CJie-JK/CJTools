@@ -1,0 +1,22 @@
+{
+  "name": "CJTools",
+  "version": "0.1.0",
+  "summary": "A short description of CJTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CJie-JK/CJTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CJie-JK": "1164490657@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/CJie-JK/CJTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CJTools/Classes/**/*"
+}

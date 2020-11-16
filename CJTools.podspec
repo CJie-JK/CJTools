@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/qqGiitHub/CJTools'
+  s.homepage         = 'https://github.com/CJie-JK/CJTools'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'qqGiitHub' => '1164490657@qq.com' }
-  s.source           = { :git => 'https://github.com/qqGiitHub/CJTools.git', :tag => s.version.to_s }
+  s.author           = { 'CJie-JK' => '1164490657@qq.com' }
+  s.source           = { :git => 'https://github.com/CJie-JK/CJTools.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
