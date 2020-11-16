@@ -7,6 +7,7 @@
 //
 
 #import "CJViewController.h"
+#import "NSString+URLEncoding.h"
 
 @interface CJViewController ()
 
